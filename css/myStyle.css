@@ -1,0 +1,9 @@
+.project-item-img img {
+	width: 300px;
+}
+
+@media only screen and (max-width: 750px) {
+  .project-imgs {
+    display: none;
+  }
+}
